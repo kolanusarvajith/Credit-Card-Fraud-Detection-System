@@ -47,9 +47,3 @@ The **Random Forest model** was selected as the best-performing model for deploy
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone <repository_url>
