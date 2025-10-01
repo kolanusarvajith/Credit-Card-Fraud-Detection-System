@@ -41,10 +41,5 @@ The **Random Forest model** was selected as the best-performing model for deploy
 ---
 
 ## Webpage link
-https://qxijtadyvl5uzan3wqxcpm.streamlit.app/
-
-- **Programming Language:** Python  
-- **Libraries:** Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib  
-
----
+https://qxijtadyvl5uzan3wqxcpm.streamlit.app/ 
 
